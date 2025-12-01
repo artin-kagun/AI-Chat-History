@@ -1,4 +1,5 @@
 # AI-Chat-History
+https://note.com/math_unnatural/n/nbaf2737786fd?sub_rt=share_sb
 
 # バージョンについて
 フォルダ末尾に何も書いていないものがバージョン1です。
